@@ -3,7 +3,7 @@ layout: post
 title:  "Dummy Post 2"
 date:   2015-04-18 08:43:59
 author: Ben Centra
-categories: Dummy
+categories: Dummy2
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
